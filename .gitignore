@@ -1,0 +1,6 @@
+build/
+*.apk
+*.idsig
+# Clave de firma local: mantenla para poder actualizar la app sin desinstalar
+debug.keystore
+.DS_Store
